@@ -12,7 +12,7 @@ Landmarks App built with SwiftUI as part of the "Introducing SwiftUI" tutorial b
        git clone https://github.com/jhonnierandrey/swLandmarks
    ```
 
-2. Open the `LittleLemon.xcodeproj` file in Xcode (recommended - Version 14.3.1)
+2. Open the `Landmarks.xcodeproj` file in Xcode (recommended - Version 14.3.1)
 
 ## Contributing
 
