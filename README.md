@@ -1,8 +1,16 @@
 # Landmarks
 
-Landmarks App built with SwiftUI as part of the "Introducing SwiftUI" tutorial by Apple
+Landmarks App built with SwiftUI as part of the "Introducing SwiftUI" tutorial by Apple.
 
-![Landmarks Preview --soon](https://www.jaesmadeit.com/assets/img/projects/mobile-apps/)
+This project includes the iOS, watchOS and macOS app.
+
+![Landmarks Multidevice Preview](https://www.jaesmadeit.com/assets/img/projects/mobile-apps/landmarks/landmark-multidevice-preview.png)
+
+![Landmarks iOS Preview](https://www.jaesmadeit.com/assets/img/projects/mobile-apps/landmarks/landmark-iphone-preview.png)
+
+![Landmarks watchOS Preview](https://www.jaesmadeit.com/assets/img/projects/mobile-apps/landmarks/landmark-applewatch-preview.png)
+
+![Landmarks macOS Preview](https://www.jaesmadeit.com/assets/img/projects/mobile-apps/landmarks/landmark-mac-preview.png)
 
 ## How to use:
 

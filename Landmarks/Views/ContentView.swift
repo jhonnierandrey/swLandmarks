@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State private var selection: Tab = .featured
+    @Environment(\.colorScheme) var colorScheme
     
     enum Tab {
         case featured
@@ -35,5 +36,6 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
             .environmentObject(ModelData())
+            .environment(\.colorScheme, .dark)
     }
 }
